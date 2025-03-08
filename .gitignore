@@ -24,6 +24,7 @@
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 Library/
+*.tif
 
 # Visual Studio cache directory
 .vs/
